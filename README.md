@@ -22,3 +22,4 @@ DEBUG=true
 
 Make `.env` file like above to make game in debug mode.
 
+"# VSLIKE" 
